@@ -1,0 +1,14 @@
+Points from loaded Skills File are: - 
+1. Coding For Production using Python.
+2. Data Management using PostgreSQL and SQL.
+3. Web Scraping using Selenium and BeautifulSoup 4.
+4. Data visualization using Matplotlib and Seaborn.
+5. Processing structured tables using Pandas.
+6. Classification, Regression, Dimensionality Reduction, K-Means and DBSCAN clustering using Scikit-Learn.
+7. Exploratory Analysis in Python and SQL.
+8. NLP analysis and text topic detection using Scikit-Learn.
+9. Developing probability simulations using NumPy.
+10. Extreme Gradient Boosting with XGBoost. 
+11. Dimensionality reduction with PCA and SVD, using Scikit-Learn.
+12. Supervised Learning and Unsupervised Learning with Scikit-Learn.
+13. Machine Learning with Tree Based Models in Python.
