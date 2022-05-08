@@ -1,4 +1,3 @@
-Points from loaded Skills File are: - 
 1. Coding For Production using Python.
 2. Data Management using PostgreSQL and SQL.
 3. Web Scraping using Selenium and BeautifulSoup 4.
